@@ -73,7 +73,7 @@ jupyter notebook testing_notebook.ipynb
 ## Project Structure
 
 ```
-ab-test-analysis/
+abtest-analysis/
 │
 ├── testing_notebook.ipynb       ← main analysis notebook
 ├── requirements.txt             ← dependencies
